@@ -1,3 +1,8 @@
+# About this Project
+
+This repository follows the Angular Fundamentals training on Pluralsight by Jim Cooper, Joe Eames.
+It is only meant to be used as a tool to learn the Angular framework.
+
 # NgFundamentals
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
